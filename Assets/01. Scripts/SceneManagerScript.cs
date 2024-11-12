@@ -14,7 +14,7 @@ public class SceneManagerScript : MonoBehaviour
         }
         else if (Input.GetKeyDown(KeyCode.Alpha2)) // 숫자 키 2
         {
-            SceneManager.LoadScene("VoatScene");
+            SceneManager.LoadScene("BoatScene");
         }
         else if (Input.GetKeyDown(KeyCode.Alpha3)) // 숫자 키 3
         {

@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/02. Scenes/ChandelierScene.unity
     guid: e8b13955036404c4298f1c49b221580d
   - enabled: 1
-    path: Assets/02. Scenes/VoatScene.unity
+    path: Assets/02. Scenes/BoatScene.unity
     guid: a22374e8aa29cf84e80e9c6fd1441c4d
   - enabled: 1
     path: Assets/02. Scenes/BridgeScene.unity
