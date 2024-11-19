@@ -5,12 +5,12 @@ using UnityEngine;
 public class BoatMove : MonoBehaviour
 {
 
-    public float moveSpeed = 1f; // 오브젝트 이동 속도
+    public float moveSpeed = 0.01f; // 오브젝트 이동 속도
 
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame

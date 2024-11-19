@@ -62,6 +62,9 @@
   <ItemGroup>
     <Compile Include="Assets\01. Scripts\BoatMove.cs" />
     <Compile Include="Assets\01. Scripts\SceneManagerScript.cs" />
+    <Compile Include="Assets\01. Scripts\FadeManager.cs" />
+    <Compile Include="Assets\01. Scripts\UIFade.cs" />
+    <Compile Include="Assets\01. Scripts\DontDestroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Boats\Read me.txt" />
