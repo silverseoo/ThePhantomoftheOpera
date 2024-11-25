@@ -658,6 +658,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GwangjuTheater_Exterior
       objectReference: {fileID: 0}
+    - target: {fileID: 652725872570887100, guid: 1a4d20c2a85cbe247ba9dbac2307aa86, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1894,10 +1898,10 @@ SceneRoots:
   - {fileID: 118045614}
   - {fileID: 61240887}
   - {fileID: 786934112}
-  - {fileID: 354891590}
   - {fileID: 923433955}
   - {fileID: 112534361}
   - {fileID: 1383189926}
   - {fileID: 409423105}
+  - {fileID: 354891590}
   - {fileID: 969226069}
   - {fileID: 2049732188}
