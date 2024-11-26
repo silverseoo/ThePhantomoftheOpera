@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\bridgemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\bridgemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|c:\\users\\user\\unityproject\\thephantomoftheopera\\assets\\01. scripts\\boatmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\boatmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\boatmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\bridgemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\bridgemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|c:\\users\\user\\unityproject\\thephantomoftheopera\\assets\\01. scripts\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\fademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\dontdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\dontdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\assets\\01. scripts\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFEF25BB-6AF2-0EF5-67B1-7358697448A2}|Assembly-CSharp.csproj|solutionrelative:assets\\01. scripts\\uifade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\SceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,55 +38,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BridgeMove.cs",
               "DocumentMoniker": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\BridgeMove.cs",
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\BridgeMove.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\BridgeMove.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\BridgeMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:52:57.626Z"
+              "WhenOpened": "2024-11-25T09:52:57.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DontDestroy.cs",
               "DocumentMoniker": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\DontDestroy.cs",
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\DontDestroy.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\DontDestroy.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\DontDestroy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T03:45:20.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FadeManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\FadeManager.cs",
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\FadeManager.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\FadeManager.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\FadeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T01:21:59.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UIFade.cs",
               "DocumentMoniker": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\UIFade.cs",
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\UIFade.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\UIFade.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\UIFade.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA2wDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:44:41.203Z"
+              "WhenOpened": "2024-11-19T00:44:41.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,23 +98,22 @@
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\BoatMove.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\BoatMove.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\BoatMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAMBSwBwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T03:00:23.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SceneManagerScript.cs",
               "DocumentMoniker": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\SceneManagerScript.cs",
               "RelativeDocumentMoniker": "Assets\\01. Scripts\\SceneManagerScript.cs",
               "ToolTip": "C:\\Users\\user\\UnityProject\\ThePhantomoftheOpera\\Assets\\01. Scripts\\SceneManagerScript.cs",
               "RelativeToolTip": "Assets\\01. Scripts\\SceneManagerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:08:29.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T07:08:29.384Z"
             },
             {
               "$type": "Document",

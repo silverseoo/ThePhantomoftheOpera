@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SwingRotation : MonoBehaviour
+public class BridgeMove : MonoBehaviour
 {
     public float rotationAmplitude = 5f; // 최대 회전 각도 (좌/우로 기울어지는 정도)
     public float rotationSpeed = 1f;     // 회전 속도 (1초당 왕복 횟수)
